@@ -1,0 +1,7 @@
+numpy==1.23.2
+pandas==1.4.4
+scikit-learn==1.1.2
+Flask==2.2.2
+gunicorn==20.1.0
+pytest==6.2.2
+azureml-core==1.44.0
